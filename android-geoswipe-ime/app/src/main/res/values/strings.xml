@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GeoSwipe</string>
+    <string name="swipe_hint">Swipe: ერთი მოძრაობით აკრიფე სიტყვა • Hold: თ/ძ/ჭ/ჟ/ღ</string>
+    <string name="placeholder_suggestion">—</string>
+    <string name="key_backspace">⌫</string>
+    <string name="key_space">Space</string>
+    <string name="key_enter">↵</string>
 </resources>
